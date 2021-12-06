@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/avinashdehariya.io/production/static/css/main.f7c88852.chunk.css",
-    "main.js": "/avinashdehariya.io/production/static/js/main.a7712db5.chunk.js",
-    "main.js.map": "/avinashdehariya.io/production/static/js/main.a7712db5.chunk.js.map",
-    "runtime-main.js": "/avinashdehariya.io/production/static/js/runtime-main.e7afda5f.js",
-    "runtime-main.js.map": "/avinashdehariya.io/production/static/js/runtime-main.e7afda5f.js.map",
-    "static/js/2.1f771bf1.chunk.js": "/avinashdehariya.io/production/static/js/2.1f771bf1.chunk.js",
-    "static/js/2.1f771bf1.chunk.js.map": "/avinashdehariya.io/production/static/js/2.1f771bf1.chunk.js.map",
-    "index.html": "/avinashdehariya.io/production/index.html",
-    "precache-manifest.c6e7ddbb5025a2f671edfca0ca7940a1.js": "/avinashdehariya.io/production/precache-manifest.c6e7ddbb5025a2f671edfca0ca7940a1.js",
-    "service-worker.js": "/avinashdehariya.io/production/service-worker.js",
-    "static/css/main.f7c88852.chunk.css.map": "/avinashdehariya.io/production/static/css/main.f7c88852.chunk.css.map",
-    "static/js/2.1f771bf1.chunk.js.LICENSE.txt": "/avinashdehariya.io/production/static/js/2.1f771bf1.chunk.js.LICENSE.txt"
+    "main.css": "/avinashdehariya.io/reactlivewebsite/static/css/main.f7c88852.chunk.css",
+    "main.js": "/avinashdehariya.io/reactlivewebsite/static/js/main.a7712db5.chunk.js",
+    "main.js.map": "/avinashdehariya.io/reactlivewebsite/static/js/main.a7712db5.chunk.js.map",
+    "runtime-main.js": "/avinashdehariya.io/reactlivewebsite/static/js/runtime-main.1507a8a8.js",
+    "runtime-main.js.map": "/avinashdehariya.io/reactlivewebsite/static/js/runtime-main.1507a8a8.js.map",
+    "static/js/2.1f771bf1.chunk.js": "/avinashdehariya.io/reactlivewebsite/static/js/2.1f771bf1.chunk.js",
+    "static/js/2.1f771bf1.chunk.js.map": "/avinashdehariya.io/reactlivewebsite/static/js/2.1f771bf1.chunk.js.map",
+    "index.html": "/avinashdehariya.io/reactlivewebsite/index.html",
+    "precache-manifest.0e7b9c34052c3f09202839fbb5b43f4f.js": "/avinashdehariya.io/reactlivewebsite/precache-manifest.0e7b9c34052c3f09202839fbb5b43f4f.js",
+    "service-worker.js": "/avinashdehariya.io/reactlivewebsite/service-worker.js",
+    "static/css/main.f7c88852.chunk.css.map": "/avinashdehariya.io/reactlivewebsite/static/css/main.f7c88852.chunk.css.map",
+    "static/js/2.1f771bf1.chunk.js.LICENSE.txt": "/avinashdehariya.io/reactlivewebsite/static/js/2.1f771bf1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e7afda5f.js",
+    "static/js/runtime-main.1507a8a8.js",
     "static/js/2.1f771bf1.chunk.js",
     "static/css/main.f7c88852.chunk.css",
     "static/js/main.a7712db5.chunk.js"
